@@ -1,6 +1,10 @@
 # systems
 
-I run cross-border supply chain and GTM systems for a direct-to-consumer fitness brand, importing from China and selling into Canada and the US, and I built every system below myself.
+Growth systems
+
+Summit Kabir  · summitkabir6@gmail.com
+
+I'm the COO of Gym Army, a direct-to-consumer fitness brand running cross-border supply chain between China, Canada and the US. I lead GTM and product at LockedIn, a workout and accountability app. I built every system below myself.
 
 These systems turn raw traffic and customer data into reliable, measurable growth loops — automation, segmentation, multi-tool orchestration, and the measurement layer that tells me which numbers I can trust.
 
