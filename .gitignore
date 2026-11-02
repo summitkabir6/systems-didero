@@ -1,0 +1,9 @@
+# Ignore raw data exports and local files
+*.csv
+*.xlsx
+*.json
+.env
+*.log
+node_modules/
+__pycache__/
+.DS_Store
